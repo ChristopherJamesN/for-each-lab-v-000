@@ -7,7 +7,7 @@ function changeCompletely(element, index, array) {
 }
 
 function iterativeLog(array) {
-  array.forEach(callback)
+  array.forEach(console.log("$index: $element");)
 }
 
 function iterate(callback) {
