@@ -7,7 +7,7 @@ function changeCompletely(element, index, array) {
 }
 
 function iterativeLog(array) {
-
+  array.forEach(callback)
 }
 
 function iterate(callback) {
@@ -15,5 +15,5 @@ function iterate(callback) {
 }
 
 function doToArray(array, callback){
-  
+
 }
